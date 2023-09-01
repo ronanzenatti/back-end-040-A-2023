@@ -1,0 +1,25 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Gallo Boy",
+            "email": "gallo@boy.com",
+            "senha": "123456"
+        },
+        {
+            "id": 2,
+            "nome": "Indiano da Barra",
+            "email": "indiano@barra.com",
+            "senha": "654321"
+        }
+    ],
+    "produtos":[
+        {
+            "id": 1,
+            "nome": "Clipes",
+            "descricao": "de papel, tamanho grande",
+            "validade": "2024-12-31",
+            "valor": 15.69
+        }
+    ]
+}
